@@ -7,7 +7,7 @@
         "ultroid",
         "cli"
     ],
-    "repository": "https://github.com/BLUE-DEVIL1134/UltroidCliTemplate",
+    "repository": "https://github.com/rommelnita/UltroidCliTemplate",
     "website": "https://ultroid.tech",
     "success_url": "https://github.com/BLUE-DEVIL1134/UltroidCli",
     "stack": "container",
